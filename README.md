@@ -61,3 +61,11 @@
 - These movies had less comments about characters and franchises - the content - and more comments about the quality of the movie.
 - Low-rated movies suffered from low quality production, with movies that looked and felt unfinished. Visuals were weak, and the soundtracks were lacking.
 - Stories were more likely to be viewed as boring, predictable, and a waste of time. Audiences were unimpressed with attractive no-name actors in tales that did not engage or pull them in. 
+
+-------------------------------------------------------
+
+### Credits
+
+Data used from IMDB in accordance with their [attribution policy](https://docs.google.com/document/d/1LzFQDulDdQjiMuZ8sBYeDbHnN62ZWjFU_xt_4eSwVIw/edit).
+
+![IMDB logo](Images/blue_long_2.svg)
